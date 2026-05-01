@@ -168,7 +168,7 @@ Finalize → Produce final output
 
 ## Clone the Repo
 
-git clone <your-repo-url>
-cd <your-repo>
-pip install -r requirements.txt
+git clone <your-repo-url> \n
+cd <your-repo> \n
+pip install -r requirements.txt \n 
 export OPENAI_API_KEY=your_api_key
