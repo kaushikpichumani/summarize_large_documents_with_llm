@@ -40,7 +40,6 @@ This project solves that using a structured pipeline:
 
 This section explains the key functions and states used in the summarization pipeline built with **LangGraph**.
 
----
 
 ### 🔢 Token Limit Configuration
 
