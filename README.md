@@ -43,7 +43,6 @@ This section explains the key functions and states used in the summarization pip
 
 ### 🔢 Token Limit Configuration
 
-```python
 token_max = 2000
 
 
