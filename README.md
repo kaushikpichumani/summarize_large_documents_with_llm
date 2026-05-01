@@ -166,11 +166,9 @@ Reduce → Merge summaries
 Collapse → Handle token overflow recursively
 Finalize → Produce final output
 
-
+## Clone the Repo
 
 git clone <your-repo-url>
 cd <your-repo>
 pip install -r requirements.txt
 export OPENAI_API_KEY=your_api_key
-
-python main.py
