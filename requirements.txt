@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+langchain-community
+langchain-openai
+langchain-core
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+pymupdf
+matplotlib
+langgraph
+langchain-huggingface
